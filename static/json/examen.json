@@ -1,0 +1,803 @@
+{
+  "PR": [
+    {
+      "p": "\u00bfCu\u00e1l es la definici\u00f3n de matem\u00e1ticas discretas?",
+      "rs": [
+        {
+          "r": "\u00e1rea de las matem\u00e1ticas encargadas del estudio de los conjuntos discretos : finitos o infinitos numerables . "
+        },
+        {
+          "r": "objeto abstracto estudiado en matem\u00e1ticas . "
+        },
+        {
+          "r": "rama de la ingenier\u00eda que utiliza la matem\u00e1tica aplicada y que se apoya en el uso de herramientas computacionales para resolver problemas de la ingenier\u00eda , principalmente relacionados con el modelamiento de diversos procesos . "
+        },
+        {
+          "r": "rama de la matem\u00e1tica perteneciente al \u00e1rea de matem\u00e1ticas discretas que estudia la enumeraci\u00f3n , construcci\u00f3n y existencia de propiedades de configuraciones que satisfacen ciertas condiciones establecidas . "
+        }
+      ]
+    },
+    {
+      "p": "\u00bfCu\u00e1l es la definici\u00f3n de ingenier\u00eda matem\u00e1tica?",
+      "rs": [
+        {
+          "r": "rama de la ingenier\u00eda que utiliza la matem\u00e1tica aplicada y que se apoya en el uso de herramientas computacionales para resolver problemas de la ingenier\u00eda , principalmente relacionados con el modelamiento de diversos procesos . "
+        },
+        {
+          "r": "conjunto de objetos llamados v\u00e9rtices o nodos unidos por enlaces llamados aristas o arcos , que permiten representar relaciones binarias entre elementos de un conjunto.son objeto de estudio de la teor\u00eda de grafos . "
+        },
+        {
+          "r": "objeto abstracto estudiado en matem\u00e1ticas . "
+        },
+        {
+          "r": "rama de la matem\u00e1tica perteneciente al \u00e1rea de matem\u00e1ticas discretas que estudia la enumeraci\u00f3n , construcci\u00f3n y existencia de propiedades de configuraciones que satisfacen ciertas condiciones establecidas . "
+        }
+      ]
+    },
+    {
+      "p": "\u00bfCu\u00e1l es la definici\u00f3n de objeto matem\u00e1tico?",
+      "rs": [
+        {
+          "r": "objeto abstracto estudiado en matem\u00e1ticas . "
+        },
+        {
+          "r": "conjunto de objetos llamados v\u00e9rtices o nodos unidos por enlaces llamados aristas o arcos , que permiten representar relaciones binarias entre elementos de un conjunto.son objeto de estudio de la teor\u00eda de grafos . "
+        },
+        {
+          "r": "\u00e1rea de las matem\u00e1ticas encargadas del estudio de los conjuntos discretos : finitos o infinitos numerables . "
+        },
+        {
+          "r": "rama de la matem\u00e1tica perteneciente al \u00e1rea de matem\u00e1ticas discretas que estudia la enumeraci\u00f3n , construcci\u00f3n y existencia de propiedades de configuraciones que satisfacen ciertas condiciones establecidas . "
+        }
+      ]
+    },
+    {
+      "p": "\u00bfCu\u00e1l es la definici\u00f3n de combinatoria?",
+      "rs": [
+        {
+          "r": "rama de la matem\u00e1tica perteneciente al \u00e1rea de matem\u00e1ticas discretas que estudia la enumeraci\u00f3n , construcci\u00f3n y existencia de propiedades de configuraciones que satisfacen ciertas condiciones establecidas . "
+        },
+        {
+          "r": "conjunto de objetos llamados v\u00e9rtices o nodos unidos por enlaces llamados aristas o arcos , que permiten representar relaciones binarias entre elementos de un conjunto.son objeto de estudio de la teor\u00eda de grafos . "
+        },
+        {
+          "r": "\u00e1rea de las matem\u00e1ticas encargadas del estudio de los conjuntos discretos : finitos o infinitos numerables . "
+        },
+        {
+          "r": "objeto abstracto estudiado en matem\u00e1ticas . "
+        }
+      ]
+    },
+    {
+      "p": "\u00bfCu\u00e1l es la definici\u00f3n de grafo?",
+      "rs": [
+        {
+          "r": "conjunto de objetos llamados v\u00e9rtices o nodos unidos por enlaces llamados aristas o arcos , que permiten representar relaciones binarias entre elementos de un conjunto.son objeto de estudio de la teor\u00eda de grafos . "
+        },
+        {
+          "r": "rama de la ingenier\u00eda que utiliza la matem\u00e1tica aplicada y que se apoya en el uso de herramientas computacionales para resolver problemas de la ingenier\u00eda , principalmente relacionados con el modelamiento de diversos procesos . "
+        },
+        {
+          "r": "rama de la matem\u00e1tica perteneciente al \u00e1rea de matem\u00e1ticas discretas que estudia la enumeraci\u00f3n , construcci\u00f3n y existencia de propiedades de configuraciones que satisfacen ciertas condiciones establecidas . "
+        },
+        {
+          "r": "objeto abstracto estudiado en matem\u00e1ticas . "
+        }
+      ]
+    },
+    {
+      "p": "\u00bfCual es la definici\u00f3n de Inform\u00e1tica te\u00f3rica?",
+      "rs": [
+        {
+          "r": "La teor\u00eda de la inform\u00e1tica incluye \u00e1reas de la matem\u00e1tica discreta relevante a la computaci\u00f3n "
+        },
+        {
+          "r": "La teor\u00eda de la decisi\u00f3n trata fundamentalmente con identificar los valores , incertidumbres y otros factores relevantes en una decisi\u00f3n , su racionalidad y la decisi\u00f3n \u00f3ptima resultante "
+        },
+        {
+          "r": "La teor\u00eda de conjuntos es la rama de la matem\u00e1tica que estudia conjuntos matem\u00e1ticos , los cuales son colecciones de objetos , tales como { azul , blanco , rojo } o el conjunto infinito de todos los n\u00fameros primos "
+        },
+        {
+          "r": "La teor\u00eda de la informaci\u00f3n se ve involucrada en la cuantificaci\u00f3n de la informaci\u00f3n "
+        }
+      ]
+    },
+    {
+      "p": "De acuerdo a T\u00f3picos en la matem\u00e1tica discreta \u00bfQue es la Teor\u00eda de la informaci\u00f3n?",
+      "rs": [
+        {
+          "r": "La teor\u00eda de la informaci\u00f3n se ve involucrada en la cuantificaci\u00f3n de la informaci\u00f3n "
+        },
+        {
+          "r": "La combinatoria es la rama de la matem\u00e1tica que estudia colecciones finitas de objetos que pueden ser combinados u ordenados "
+        },
+        {
+          "r": "La teor\u00eda de n\u00fameros principalmente tiene que ver con las propiedades de los n\u00fameros en general y , particularmente , de los enteros "
+        },
+        {
+          "r": "La discretizaci\u00f3n busca transformar modelos y ecuaciones continuos en sus contrapartes discretas,[3]\u200b usualmente para hacer c\u00e1lculos m\u00e1s f\u00e1cilmente utilizando aproximaciones "
+        }
+      ]
+    },
+    {
+      "p": "De acuerdo a T\u00f3picos en la matem\u00e1tica discreta \u00bfQue es la L\u00f3gica?",
+      "rs": [
+        {
+          "r": "La l\u00f3gica es el estudio de los principios del razonamiento v\u00e1lido y la inferencia , como tambi\u00e9n de la consistencia , solidez y completitud "
+        },
+        {
+          "r": "La teor\u00eda de la decisi\u00f3n trata fundamentalmente con identificar los valores , incertidumbres y otros factores relevantes en una decisi\u00f3n , su racionalidad y la decisi\u00f3n \u00f3ptima resultante "
+        },
+        {
+          "r": "La combinatoria es la rama de la matem\u00e1tica que estudia colecciones finitas de objetos que pueden ser combinados u ordenados "
+        },
+        {
+          "r": "La geometr\u00eda discreta y la geometr\u00eda combinatoria tratan las propiedades combinatorias de colecciones discretas de objetos geom\u00e9tricos "
+        }
+      ]
+    },
+    {
+      "p": "De acuerdo a T\u00f3picos en la matem\u00e1tica discreta \u00bfQue es la Teor\u00eda de conjuntos?",
+      "rs": [
+        {
+          "r": "La teor\u00eda de conjuntos es la rama de la matem\u00e1tica que estudia conjuntos matem\u00e1ticos , los cuales son colecciones de objetos , tales como { azul , blanco , rojo } o el conjunto infinito de todos los n\u00fameros primos "
+        },
+        {
+          "r": "La geometr\u00eda discreta y la geometr\u00eda combinatoria tratan las propiedades combinatorias de colecciones discretas de objetos geom\u00e9tricos "
+        },
+        {
+          "r": "La discretizaci\u00f3n busca transformar modelos y ecuaciones continuos en sus contrapartes discretas,[3]\u200b usualmente para hacer c\u00e1lculos m\u00e1s f\u00e1cilmente utilizando aproximaciones "
+        },
+        {
+          "r": "La investigaci\u00f3n de operaciones es una rama de las matem\u00e1ticas consistente en el uso de modelos matem\u00e1ticos , estad\u00edstica y algoritmos con objeto de realizar un proceso de toma de decisiones pr\u00e1cticas para negocios y otras \u00e1reas "
+        }
+      ]
+    },
+    {
+      "p": "\u00bfCual es la definici\u00f3n de Combinatoria?",
+      "rs": [
+        {
+          "r": "La combinatoria es la rama de la matem\u00e1tica que estudia colecciones finitas de objetos que pueden ser combinados u ordenados "
+        },
+        {
+          "r": "Una funci\u00f3n definida en un intervalo de enteros se llama secuencia "
+        },
+        {
+          "r": "La discretizaci\u00f3n busca transformar modelos y ecuaciones continuos en sus contrapartes discretas,[3]\u200b usualmente para hacer c\u00e1lculos m\u00e1s f\u00e1cilmente utilizando aproximaciones "
+        },
+        {
+          "r": "La teor\u00eda de grafos es el estudio de grafos y la teor\u00eda de redes "
+        }
+      ]
+    },
+    {
+      "p": "De acuerdo a T\u00f3picos en la matem\u00e1tica discreta \u00bfQue es la Teor\u00eda de grafos?",
+      "rs": [
+        {
+          "r": "La teor\u00eda de grafos es el estudio de grafos y la teor\u00eda de redes "
+        },
+        {
+          "r": "La discretizaci\u00f3n busca transformar modelos y ecuaciones continuos en sus contrapartes discretas,[3]\u200b usualmente para hacer c\u00e1lculos m\u00e1s f\u00e1cilmente utilizando aproximaciones "
+        },
+        {
+          "r": "Las estructuras algebraicas ocurren discreta y continuamente "
+        },
+        {
+          "r": "La teor\u00eda de conjuntos es la rama de la matem\u00e1tica que estudia conjuntos matem\u00e1ticos , los cuales son colecciones de objetos , tales como { azul , blanco , rojo } o el conjunto infinito de todos los n\u00fameros primos "
+        }
+      ]
+    },
+    {
+      "p": "De acuerdo a T\u00f3picos en la matem\u00e1tica discreta \u00bfQue es la Teor\u00eda de distribuciones de probabilidad discretas?",
+      "rs": [
+        {
+          "r": "La teor\u00eda de distribuciones discretas trata con eventos que ocurren en espacios de muestra numerables "
+        },
+        {
+          "r": "La l\u00f3gica es el estudio de los principios del razonamiento v\u00e1lido y la inferencia , como tambi\u00e9n de la consistencia , solidez y completitud "
+        },
+        {
+          "r": "La combinatoria es la rama de la matem\u00e1tica que estudia colecciones finitas de objetos que pueden ser combinados u ordenados "
+        },
+        {
+          "r": "La investigaci\u00f3n de operaciones es una rama de las matem\u00e1ticas consistente en el uso de modelos matem\u00e1ticos , estad\u00edstica y algoritmos con objeto de realizar un proceso de toma de decisiones pr\u00e1cticas para negocios y otras \u00e1reas "
+        }
+      ]
+    },
+    {
+      "p": "De acuerdo a T\u00f3picos en la matem\u00e1tica discreta \u00bfQue es la Teor\u00eda de n\u00fameros?",
+      "rs": [
+        {
+          "r": "La teor\u00eda de n\u00fameros principalmente tiene que ver con las propiedades de los n\u00fameros en general y , particularmente , de los enteros "
+        },
+        {
+          "r": "La teor\u00eda de conjuntos es la rama de la matem\u00e1tica que estudia conjuntos matem\u00e1ticos , los cuales son colecciones de objetos , tales como { azul , blanco , rojo } o el conjunto infinito de todos los n\u00fameros primos "
+        },
+        {
+          "r": "La geometr\u00eda discreta y la geometr\u00eda combinatoria tratan las propiedades combinatorias de colecciones discretas de objetos geom\u00e9tricos "
+        },
+        {
+          "r": "Una funci\u00f3n definida en un intervalo de enteros se llama secuencia "
+        }
+      ]
+    },
+    {
+      "p": "\u00bfCual es la definici\u00f3n de \u00c1lgebra?",
+      "rs": [
+        {
+          "r": "Las estructuras algebraicas ocurren discreta y continuamente "
+        },
+        {
+          "r": "La teor\u00eda de la informaci\u00f3n se ve involucrada en la cuantificaci\u00f3n de la informaci\u00f3n "
+        },
+        {
+          "r": "La teor\u00eda de n\u00fameros principalmente tiene que ver con las propiedades de los n\u00fameros en general y , particularmente , de los enteros "
+        },
+        {
+          "r": "La teor\u00eda de grafos es el estudio de grafos y la teor\u00eda de redes "
+        }
+      ]
+    },
+    {
+      "p": "De acuerdo a T\u00f3picos en la matem\u00e1tica discreta \u00bfQue es el C\u00e1lculo de diferencias finitas?",
+      "rs": [
+        {
+          "r": "Una funci\u00f3n definida en un intervalo de enteros se llama secuencia "
+        },
+        {
+          "r": "La teor\u00eda de conjuntos es la rama de la matem\u00e1tica que estudia conjuntos matem\u00e1ticos , los cuales son colecciones de objetos , tales como { azul , blanco , rojo } o el conjunto infinito de todos los n\u00fameros primos "
+        },
+        {
+          "r": "La teor\u00eda de n\u00fameros principalmente tiene que ver con las propiedades de los n\u00fameros en general y , particularmente , de los enteros "
+        },
+        {
+          "r": "La combinatoria es la rama de la matem\u00e1tica que estudia colecciones finitas de objetos que pueden ser combinados u ordenados "
+        }
+      ]
+    },
+    {
+      "p": "\u00bfCual es la definici\u00f3n de Geometr\u00eda discreta?",
+      "rs": [
+        {
+          "r": "La geometr\u00eda discreta y la geometr\u00eda combinatoria tratan las propiedades combinatorias de colecciones discretas de objetos geom\u00e9tricos "
+        },
+        {
+          "r": "Una funci\u00f3n definida en un intervalo de enteros se llama secuencia "
+        },
+        {
+          "r": "La teor\u00eda de la inform\u00e1tica incluye \u00e1reas de la matem\u00e1tica discreta relevante a la computaci\u00f3n "
+        },
+        {
+          "r": "La l\u00f3gica es el estudio de los principios del razonamiento v\u00e1lido y la inferencia , como tambi\u00e9n de la consistencia , solidez y completitud "
+        }
+      ]
+    },
+    {
+      "p": "\u00bfCual es la definici\u00f3n de Topolog\u00eda?",
+      "rs": [
+        {
+          "r": "Si bien la topolog\u00eda general es el campo de las matem\u00e1ticas que formaliza y generaliza la noci\u00f3n intuitiva de \" deformaci\u00f3n continua \" de los objetos , o el proceso de l\u00edmite , da paso a muchos t\u00f3picos discretos "
+        },
+        {
+          "r": "La combinatoria es la rama de la matem\u00e1tica que estudia colecciones finitas de objetos que pueden ser combinados u ordenados "
+        },
+        {
+          "r": "La teor\u00eda de la inform\u00e1tica incluye \u00e1reas de la matem\u00e1tica discreta relevante a la computaci\u00f3n "
+        },
+        {
+          "r": "La investigaci\u00f3n de operaciones es una rama de las matem\u00e1ticas consistente en el uso de modelos matem\u00e1ticos , estad\u00edstica y algoritmos con objeto de realizar un proceso de toma de decisiones pr\u00e1cticas para negocios y otras \u00e1reas "
+        }
+      ]
+    },
+    {
+      "p": "De acuerdo a T\u00f3picos en la matem\u00e1tica discreta \u00bfQue es la Investigaci\u00f3n de operaciones?",
+      "rs": [
+        {
+          "r": "La investigaci\u00f3n de operaciones es una rama de las matem\u00e1ticas consistente en el uso de modelos matem\u00e1ticos , estad\u00edstica y algoritmos con objeto de realizar un proceso de toma de decisiones pr\u00e1cticas para negocios y otras \u00e1reas "
+        },
+        {
+          "r": "La teor\u00eda de la decisi\u00f3n trata fundamentalmente con identificar los valores , incertidumbres y otros factores relevantes en una decisi\u00f3n , su racionalidad y la decisi\u00f3n \u00f3ptima resultante "
+        },
+        {
+          "r": "La combinatoria es la rama de la matem\u00e1tica que estudia colecciones finitas de objetos que pueden ser combinados u ordenados "
+        },
+        {
+          "r": "La l\u00f3gica es el estudio de los principios del razonamiento v\u00e1lido y la inferencia , como tambi\u00e9n de la consistencia , solidez y completitud "
+        }
+      ]
+    },
+    {
+      "p": "De acuerdo a T\u00f3picos en la matem\u00e1tica discreta \u00bfQue es la Teor\u00eda de juegos, teor\u00eda de la decisi\u00f3n, teor\u00eda de utilidad?",
+      "rs": [
+        {
+          "r": "La teor\u00eda de la decisi\u00f3n trata fundamentalmente con identificar los valores , incertidumbres y otros factores relevantes en una decisi\u00f3n , su racionalidad y la decisi\u00f3n \u00f3ptima resultante "
+        },
+        {
+          "r": "La teor\u00eda de la informaci\u00f3n se ve involucrada en la cuantificaci\u00f3n de la informaci\u00f3n "
+        },
+        {
+          "r": "La geometr\u00eda discreta y la geometr\u00eda combinatoria tratan las propiedades combinatorias de colecciones discretas de objetos geom\u00e9tricos "
+        },
+        {
+          "r": "La teor\u00eda de conjuntos es la rama de la matem\u00e1tica que estudia conjuntos matem\u00e1ticos , los cuales son colecciones de objetos , tales como { azul , blanco , rojo } o el conjunto infinito de todos los n\u00fameros primos "
+        }
+      ]
+    },
+    {
+      "p": "\u00bfCual es la definici\u00f3n de Discretizaci\u00f3n?",
+      "rs": [
+        {
+          "r": "La discretizaci\u00f3n busca transformar modelos y ecuaciones continuos en sus contrapartes discretas,[3]\u200b usualmente para hacer c\u00e1lculos m\u00e1s f\u00e1cilmente utilizando aproximaciones "
+        },
+        {
+          "r": "La teor\u00eda de la inform\u00e1tica incluye \u00e1reas de la matem\u00e1tica discreta relevante a la computaci\u00f3n "
+        },
+        {
+          "r": "La l\u00f3gica es el estudio de los principios del razonamiento v\u00e1lido y la inferencia , como tambi\u00e9n de la consistencia , solidez y completitud "
+        },
+        {
+          "r": "La teor\u00eda de n\u00fameros principalmente tiene que ver con las propiedades de los n\u00fameros en general y , particularmente , de los enteros "
+        }
+      ]
+    },
+    {
+      "p": "\u00bfCu\u00e1l es la definici\u00f3n de lenguaje de programaci\u00f3n?",
+      "rs": [
+        {
+          "r": "lenguaje formal que le proporciona a una persona , en este caso el programador , la capacidad de escribir una serie de instrucciones o secuencias de \u00f3rdenes en forma de algoritmos con el fin de controlar el comportamiento f\u00edsico y / o l\u00f3gico de una computadora , de manera que se puedan obtener diversas clases de datos . "
+        },
+        {
+          "r": "lenguaje de programaci\u00f3n multi - paradigma y lenguaje de programaci\u00f3n esot\u00e9rico . "
+        },
+        {
+          "r": "lenguaje de programaci\u00f3n de prop\u00f3sito general:1 originalmente desarrollado por dennis ritchie entre 1969 y 1972 en los laboratorios bell , como evoluci\u00f3n del anterior lenguaje b , a su vez basado en bcpl.:1al igual que b , es un lenguaje orientado a la implementaci\u00f3n de sistemas operativos , concretamente unix . "
+        },
+        {
+          "r": "lenguaje de programaci\u00f3n orientado a objetos y fuertemente tipado de forma est\u00e1tica que fue dise\u00f1ado por jean ichbiah de cii honeywell bull por encargo del departamento de defensa de los estados unidos . "
+        }
+      ]
+    },
+    {
+      "p": "\u00bfCu\u00e1l es la definici\u00f3n de c ?",
+      "rs": [
+        {
+          "r": "lenguaje de programaci\u00f3n de prop\u00f3sito general:1 originalmente desarrollado por dennis ritchie entre 1969 y 1972 en los laboratorios bell , como evoluci\u00f3n del anterior lenguaje b , a su vez basado en bcpl.:1al igual que b , es un lenguaje orientado a la implementaci\u00f3n de sistemas operativos , concretamente unix . "
+        },
+        {
+          "r": "lenguaje de programaci\u00f3n creado por niklaus wirth y helmut weber , concebido como una extensi\u00f3n y generalizaci\u00f3n de algol 60 . "
+        },
+        {
+          "r": "lenguaje de programaci\u00f3n multi - paradigma y lenguaje de programaci\u00f3n esot\u00e9rico . "
+        },
+        {
+          "r": "lenguaje de programaci\u00f3n creado por el profesor suizo niklaus wirth entre los a\u00f1os 1968 y 1969 y publicado en 1970 . "
+        }
+      ]
+    },
+    {
+      "p": "\u00bfCu\u00e1l es la definici\u00f3n de ada ?",
+      "rs": [
+        {
+          "r": "lenguaje de programaci\u00f3n orientado a objetos y fuertemente tipado de forma est\u00e1tica que fue dise\u00f1ado por jean ichbiah de cii honeywell bull por encargo del departamento de defensa de los estados unidos . "
+        },
+        {
+          "r": "lenguaje de programaci\u00f3n minimalista , cuya utilidad para la programaci\u00f3n de proyectos de gran tama\u00f1o es dudosa normalmente debido a su naturaleza ofuscada u otra caracter\u00edstica que no es com\u00fan en otros lenguajes . "
+        },
+        {
+          "r": "lenguaje de programaci\u00f3n de prop\u00f3sito general:1 originalmente desarrollado por dennis ritchie entre 1969 y 1972 en los laboratorios bell , como evoluci\u00f3n del anterior lenguaje b , a su vez basado en bcpl.:1al igual que b , es un lenguaje orientado a la implementaci\u00f3n de sistemas operativos , concretamente unix . "
+        },
+        {
+          "r": "lenguaje de programaci\u00f3n creado por el profesor suizo niklaus wirth entre los a\u00f1os 1968 y 1969 y publicado en 1970 . "
+        }
+      ]
+    },
+    {
+      "p": "\u00bfCu\u00e1l es la definici\u00f3n de pascal ?",
+      "rs": [
+        {
+          "r": "lenguaje de programaci\u00f3n creado por el profesor suizo niklaus wirth entre los a\u00f1os 1968 y 1969 y publicado en 1970 . "
+        },
+        {
+          "r": "lenguaje de programaci\u00f3n de alto nivel , en parte funcional , en parte estructurado ; de muy f\u00e1cil aprendizaje , raz\u00f3n por la cual suele ser el lenguaje de programaci\u00f3n preferido para trabajar con ni\u00f1os y j\u00f3venes . "
+        },
+        {
+          "r": "lenguaje que usa un modelo de m\u00e1quina de pila para pasar los par\u00e1metros . "
+        },
+        {
+          "r": "lenguaje formal que le proporciona a una persona , en este caso el programador , la capacidad de escribir una serie de instrucciones o secuencias de \u00f3rdenes en forma de algoritmos con el fin de controlar el comportamiento f\u00edsico y / o l\u00f3gico de una computadora , de manera que se puedan obtener diversas clases de datos . "
+        }
+      ]
+    },
+    {
+      "p": "\u00bfCu\u00e1l es la definici\u00f3n de logo ?",
+      "rs": [
+        {
+          "r": "lenguaje de programaci\u00f3n de alto nivel , en parte funcional , en parte estructurado ; de muy f\u00e1cil aprendizaje , raz\u00f3n por la cual suele ser el lenguaje de programaci\u00f3n preferido para trabajar con ni\u00f1os y j\u00f3venes . "
+        },
+        {
+          "r": "lenguaje formal que le proporciona a una persona , en este caso el programador , la capacidad de escribir una serie de instrucciones o secuencias de \u00f3rdenes en forma de algoritmos con el fin de controlar el comportamiento f\u00edsico y / o l\u00f3gico de una computadora , de manera que se puedan obtener diversas clases de datos . "
+        },
+        {
+          "r": "lenguaje de programaci\u00f3n de prop\u00f3sito general:1 originalmente desarrollado por dennis ritchie entre 1969 y 1972 en los laboratorios bell , como evoluci\u00f3n del anterior lenguaje b , a su vez basado en bcpl.:1al igual que b , es un lenguaje orientado a la implementaci\u00f3n de sistemas operativos , concretamente unix . "
+        },
+        {
+          "r": "lenguaje de programaci\u00f3n orientado a objetos y fuertemente tipado de forma est\u00e1tica que fue dise\u00f1ado por jean ichbiah de cii honeywell bull por encargo del departamento de defensa de los estados unidos . "
+        }
+      ]
+    },
+    {
+      "p": "\u00bfCu\u00e1l es la definici\u00f3n de abc ?",
+      "rs": [
+        {
+          "r": "lenguaje de programaci\u00f3n imperativo de prop\u00f3sito general y entorno de programaci\u00f3n desarrollado en el centrum wiskunde & informatica de pa\u00edses bajos por leo geurts , lambert meertens y steven pemberton . "
+        },
+        {
+          "r": "lenguaje de programaci\u00f3n multi - paradigma y lenguaje de programaci\u00f3n esot\u00e9rico . "
+        },
+        {
+          "r": "lenguaje de programaci\u00f3n de prop\u00f3sito general:1 originalmente desarrollado por dennis ritchie entre 1969 y 1972 en los laboratorios bell , como evoluci\u00f3n del anterior lenguaje b , a su vez basado en bcpl.:1al igual que b , es un lenguaje orientado a la implementaci\u00f3n de sistemas operativos , concretamente unix . "
+        },
+        {
+          "r": "lenguaje que usa un modelo de m\u00e1quina de pila para pasar los par\u00e1metros . "
+        }
+      ]
+    },
+    {
+      "p": "\u00bfCu\u00e1l es la definici\u00f3n de lenguaje de programaci\u00f3n esot\u00e9rico?",
+      "rs": [
+        {
+          "r": "lenguaje de programaci\u00f3n minimalista , cuya utilidad para la programaci\u00f3n de proyectos de gran tama\u00f1o es dudosa normalmente debido a su naturaleza ofuscada u otra caracter\u00edstica que no es com\u00fan en otros lenguajes . "
+        },
+        {
+          "r": "lenguaje de programaci\u00f3n creado por el profesor suizo niklaus wirth entre los a\u00f1os 1968 y 1969 y publicado en 1970 . "
+        },
+        {
+          "r": "lenguaje de programaci\u00f3n multi - paradigma y lenguaje de programaci\u00f3n esot\u00e9rico . "
+        },
+        {
+          "r": "lenguaje de programaci\u00f3n creado por niklaus wirth y helmut weber , concebido como una extensi\u00f3n y generalizaci\u00f3n de algol 60 . "
+        }
+      ]
+    },
+    {
+      "p": "\u00bfCu\u00e1l es la definici\u00f3n de lenguaje de programaci\u00f3n orientado a pila?",
+      "rs": [
+        {
+          "r": "lenguaje que usa un modelo de m\u00e1quina de pila para pasar los par\u00e1metros . "
+        },
+        {
+          "r": "lenguaje formal que le proporciona a una persona , en este caso el programador , la capacidad de escribir una serie de instrucciones o secuencias de \u00f3rdenes en forma de algoritmos con el fin de controlar el comportamiento f\u00edsico y / o l\u00f3gico de una computadora , de manera que se puedan obtener diversas clases de datos . "
+        },
+        {
+          "r": "lenguaje de programaci\u00f3n de alto nivel , en parte funcional , en parte estructurado ; de muy f\u00e1cil aprendizaje , raz\u00f3n por la cual suele ser el lenguaje de programaci\u00f3n preferido para trabajar con ni\u00f1os y j\u00f3venes . "
+        },
+        {
+          "r": "lenguaje de programaci\u00f3n creado por niklaus wirth y helmut weber , concebido como una extensi\u00f3n y generalizaci\u00f3n de algol 60 . "
+        }
+      ]
+    },
+    {
+      "p": "\u00bfCu\u00e1l es la definici\u00f3n de euler ?",
+      "rs": [
+        {
+          "r": "lenguaje de programaci\u00f3n creado por niklaus wirth y helmut weber , concebido como una extensi\u00f3n y generalizaci\u00f3n de algol 60 . "
+        },
+        {
+          "r": "lenguaje de programaci\u00f3n creado por el profesor suizo niklaus wirth entre los a\u00f1os 1968 y 1969 y publicado en 1970 . "
+        },
+        {
+          "r": "lenguaje formal que le proporciona a una persona , en este caso el programador , la capacidad de escribir una serie de instrucciones o secuencias de \u00f3rdenes en forma de algoritmos con el fin de controlar el comportamiento f\u00edsico y / o l\u00f3gico de una computadora , de manera que se puedan obtener diversas clases de datos . "
+        },
+        {
+          "r": "lenguaje de programaci\u00f3n minimalista , cuya utilidad para la programaci\u00f3n de proyectos de gran tama\u00f1o es dudosa normalmente debido a su naturaleza ofuscada u otra caracter\u00edstica que no es com\u00fan en otros lenguajes . "
+        }
+      ]
+    },
+    {
+      "p": "\u00bfCu\u00e1l es la definici\u00f3n de oz ?",
+      "rs": [
+        {
+          "r": "lenguaje de programaci\u00f3n multi - paradigma y lenguaje de programaci\u00f3n esot\u00e9rico . "
+        },
+        {
+          "r": "lenguaje que usa un modelo de m\u00e1quina de pila para pasar los par\u00e1metros . "
+        },
+        {
+          "r": "lenguaje de programaci\u00f3n creado por el profesor suizo niklaus wirth entre los a\u00f1os 1968 y 1969 y publicado en 1970 . "
+        },
+        {
+          "r": "lenguaje de programaci\u00f3n orientado a objetos y fuertemente tipado de forma est\u00e1tica que fue dise\u00f1ado por jean ichbiah de cii honeywell bull por encargo del departamento de defensa de los estados unidos . "
+        }
+      ]
+    },
+    {
+      "p": "De acuerdo a Clasificaci\u00f3n de los lenguajes de programaci\u00f3n \u00bfQue es la Clasificaci\u00f3n hist\u00f3rica?",
+      "rs": [
+        {
+          "r": "A medida que surgian nuevos lenguajes que permit\u00edan nuevos estilos de programaci\u00f3n m\u00e1s expresiva , se distinguieron dichos estilos en una serie de generaciones , cada una representando lenguajes de programaci\u00f3n surgidos en una \u00e9poca similar y con caracter\u00edsticas gen\u00e9ricas comunes "
+        },
+        {
+          "r": "Un sistema de tipos de datos define la manera en la cual un lenguaje de programaci\u00f3n clasifica los valores y expresiones en tipos , c\u00f3mo pueden ser manipulados dichos tipos y c\u00f3mo interact\u00faan "
+        },
+        {
+          "r": "La sem\u00e1ntica est\u00e1tica define las restricciones sobre la estructura de los textos v\u00e1lidos que resulta imposible o muy dif\u00edcil expresar mediante formalismos sint\u00e1cticos est\u00e1ndar "
+        },
+        {
+          "r": "A la forma visible de un lenguaje de programaci\u00f3n se la conoce como sintaxis "
+        }
+      ]
+    },
+    {
+      "p": "Conforme a Clasificaci\u00f3n de los lenguajes de programaci\u00f3n \u00bfQue son los Lenguajes de alto y de bajo nivel?",
+      "rs": [
+        {
+          "r": "Los lenguajes de programaci\u00f3n se suelen clasificar dentro de dos amplias categor\u00edas que se refieren a su \" nivel de abstracci\u00f3n \" , es decir , en cuanto a lo espec\u00edfico o general que es respecto a la arquitectura de computaci\u00f3n inherente al sistema que se est\u00e1 utilizando "
+        },
+        {
+          "r": "Los equipos de ordenador ( el hardware ) han pasado por cuatro generaciones , de las que las tres primeras ( ordenadores con v\u00e1lvulas , transistores y circuitos integrados ) est\u00e1n muy claras , la cuarta ( circuitos integrados a gran escala ) es m\u00e1s discutible "
+        },
+        {
+          "r": "Programaci\u00f3n multiparadigma : es el uso de dos o m\u00e1s paradigmas dentro de un programa "
+        },
+        {
+          "r": "Los programas se pueden clasificar por el paradigma del lenguaje que se use para producirlos "
+        }
+      ]
+    },
+    {
+      "p": "De acuerdo a Clasificaci\u00f3n de los lenguajes de programaci\u00f3n \u00bfQue es la Clasificaci\u00f3n por paradigmas?",
+      "rs": [
+        {
+          "r": "Los paradigmas de programaci\u00f3n distinguen distintos modelos de c\u00f3mputo y de estilos de estructurar y organizar las tareas que debe realizar un programa "
+        },
+        {
+          "r": "Los lenguajes de programaci\u00f3n se suelen clasificar dentro de dos amplias categor\u00edas que se refieren a su \" nivel de abstracci\u00f3n \" , es decir , en cuanto a lo espec\u00edfico o general que es respecto a la arquitectura de computaci\u00f3n inherente al sistema que se est\u00e1 utilizando "
+        },
+        {
+          "r": "Programaci\u00f3n declarativa : est\u00e1 basada en describir el problema declarando propiedades y reglas que deben cumplirse , en lugar de instrucciones "
+        },
+        {
+          "r": "A medida que surgian nuevos lenguajes que permit\u00edan nuevos estilos de programaci\u00f3n m\u00e1s expresiva , se distinguieron dichos estilos en una serie de generaciones , cada una representando lenguajes de programaci\u00f3n surgidos en una \u00e9poca similar y con caracter\u00edsticas gen\u00e9ricas comunes "
+        }
+      ]
+    },
+    {
+      "p": "De acuerdo a Clasificaci\u00f3n de los lenguajes de programaci\u00f3n \u00bfQue es la Clasificaci\u00f3n por prop\u00f3sito?",
+      "rs": [
+        {
+          "r": "Se distinguen los lenguajes de programaci\u00f3n de prop\u00f3sito general de aquellos de prop\u00f3sito espec\u00edfico "
+        },
+        {
+          "r": "Programaci\u00f3n reactiva : este paradigma se basa en la declaraci\u00f3n de una serie de objetos emisores de eventos as\u00edncronos y otra serie de objetos que se \" suscriben \" a los primeros ( es decir , quedan a la escucha de la emisi\u00f3n de eventos de estos ) y * reaccionan * a los valores que reciben "
+        },
+        {
+          "r": "Las funciones se crearon para evitar tener que repetir constantemente fragmentos de c\u00f3digo "
+        },
+        {
+          "r": "Los paradigmas de programaci\u00f3n distinguen distintos modelos de c\u00f3mputo y de estilos de estructurar y organizar las tareas que debe realizar un programa "
+        }
+      ]
+    },
+    {
+      "p": "\u00bfCual es la definici\u00f3n de Clasificaci\u00f3n hist\u00f3rica o por generaciones?",
+      "rs": [
+        {
+          "r": "Los equipos de ordenador ( el hardware ) han pasado por cuatro generaciones , de las que las tres primeras ( ordenadores con v\u00e1lvulas , transistores y circuitos integrados ) est\u00e1n muy claras , la cuarta ( circuitos integrados a gran escala ) es m\u00e1s discutible "
+        },
+        {
+          "r": "Programaci\u00f3n declarativa : est\u00e1 basada en describir el problema declarando propiedades y reglas que deben cumplirse , en lugar de instrucciones "
+        },
+        {
+          "r": "Las funciones se crearon para evitar tener que repetir constantemente fragmentos de c\u00f3digo "
+        },
+        {
+          "r": "A medida que surgian nuevos lenguajes que permit\u00edan nuevos estilos de programaci\u00f3n m\u00e1s expresiva , se distinguieron dichos estilos en una serie de generaciones , cada una representando lenguajes de programaci\u00f3n surgidos en una \u00e9poca similar y con caracter\u00edsticas gen\u00e9ricas comunes "
+        }
+      ]
+    },
+    {
+      "p": "De acuerdo a Clasificaci\u00f3n por paradigmas \u00bfQue es la Programaci\u00f3n imperativa o por procedimientos?",
+      "rs": [
+        {
+          "r": "Programaci\u00f3n imperativa o por procedimientos : es el m\u00e1s usado en general , se basa en dar instrucciones al ordenador de como hacer las cosas en forma de algoritmos , en lugar de describir el problema o la soluci\u00f3n "
+        },
+        {
+          "r": "Las funciones se crearon para evitar tener que repetir constantemente fragmentos de c\u00f3digo "
+        },
+        {
+          "r": "Los programas se pueden clasificar por el paradigma del lenguaje que se use para producirlos "
+        },
+        {
+          "r": "Las variables son t\u00edtulos asignados a espacios en memoria para almacenar datos espec\u00edficos "
+        }
+      ]
+    },
+    {
+      "p": "De acuerdo a Clasificaci\u00f3n por paradigmas \u00bfQue es la Programaci\u00f3n declarativa?",
+      "rs": [
+        {
+          "r": "Programaci\u00f3n declarativa : est\u00e1 basada en describir el problema declarando propiedades y reglas que deben cumplirse , en lugar de instrucciones "
+        },
+        {
+          "r": "Se distinguen los lenguajes de programaci\u00f3n de prop\u00f3sito general de aquellos de prop\u00f3sito espec\u00edfico "
+        },
+        {
+          "r": "Programaci\u00f3n reactiva : este paradigma se basa en la declaraci\u00f3n de una serie de objetos emisores de eventos as\u00edncronos y otra serie de objetos que se \" suscriben \" a los primeros ( es decir , quedan a la escucha de la emisi\u00f3n de eventos de estos ) y * reaccionan * a los valores que reciben "
+        },
+        {
+          "r": "A la forma visible de un lenguaje de programaci\u00f3n se la conoce como sintaxis "
+        }
+      ]
+    },
+    {
+      "p": "De acuerdo a Clasificaci\u00f3n por paradigmas \u00bfQue es la Programaci\u00f3n multiparadigma?",
+      "rs": [
+        {
+          "r": "Programaci\u00f3n multiparadigma : es el uso de dos o m\u00e1s paradigmas dentro de un programa "
+        },
+        {
+          "r": "Programaci\u00f3n reactiva : este paradigma se basa en la declaraci\u00f3n de una serie de objetos emisores de eventos as\u00edncronos y otra serie de objetos que se \" suscriben \" a los primeros ( es decir , quedan a la escucha de la emisi\u00f3n de eventos de estos ) y * reaccionan * a los valores que reciben "
+        },
+        {
+          "r": "Los programas se pueden clasificar por el paradigma del lenguaje que se use para producirlos "
+        },
+        {
+          "r": "Los lenguajes de programaci\u00f3n se suelen clasificar dentro de dos amplias categor\u00edas que se refieren a su \" nivel de abstracci\u00f3n \" , es decir , en cuanto a lo espec\u00edfico o general que es respecto a la arquitectura de computaci\u00f3n inherente al sistema que se est\u00e1 utilizando "
+        }
+      ]
+    },
+    {
+      "p": "De acuerdo a Clasificaci\u00f3n por paradigmas \u00bfQue es la Programaci\u00f3n reactiva?",
+      "rs": [
+        {
+          "r": "Programaci\u00f3n reactiva : este paradigma se basa en la declaraci\u00f3n de una serie de objetos emisores de eventos as\u00edncronos y otra serie de objetos que se \" suscriben \" a los primeros ( es decir , quedan a la escucha de la emisi\u00f3n de eventos de estos ) y * reaccionan * a los valores que reciben "
+        },
+        {
+          "r": "Programaci\u00f3n multiparadigma : es el uso de dos o m\u00e1s paradigmas dentro de un programa "
+        },
+        {
+          "r": "Programaci\u00f3n declarativa : est\u00e1 basada en describir el problema declarando propiedades y reglas que deben cumplirse , en lugar de instrucciones "
+        },
+        {
+          "r": "Las funciones se crearon para evitar tener que repetir constantemente fragmentos de c\u00f3digo "
+        }
+      ]
+    },
+    {
+      "p": "Conforme a Elementos \u00bfQue son los Variables y vectores?",
+      "rs": [
+        {
+          "r": "Las variables son t\u00edtulos asignados a espacios en memoria para almacenar datos espec\u00edficos "
+        },
+        {
+          "r": "A medida que surgian nuevos lenguajes que permit\u00edan nuevos estilos de programaci\u00f3n m\u00e1s expresiva , se distinguieron dichos estilos en una serie de generaciones , cada una representando lenguajes de programaci\u00f3n surgidos en una \u00e9poca similar y con caracter\u00edsticas gen\u00e9ricas comunes "
+        },
+        {
+          "r": "A la forma visible de un lenguaje de programaci\u00f3n se la conoce como sintaxis "
+        },
+        {
+          "r": "Programaci\u00f3n multiparadigma : es el uso de dos o m\u00e1s paradigmas dentro de un programa "
+        }
+      ]
+    },
+    {
+      "p": "\u00bfCual es la definici\u00f3n de Condicionales?",
+      "rs": [
+        {
+          "r": "Las sentencias condicionales son estructuras de c\u00f3digo que indican que , para que cierta parte del programa se ejecute , deben cumplirse ciertas premisas ; por ejemplo : que dos valores sean iguales , que un valor exista , que un valor sea mayor que otro ... Estos condicionantes por lo general solo se ejecutan una vez a lo largo del programa "
+        },
+        {
+          "r": "Las variables son t\u00edtulos asignados a espacios en memoria para almacenar datos espec\u00edficos "
+        },
+        {
+          "r": "Se distinguen los lenguajes de programaci\u00f3n de prop\u00f3sito general de aquellos de prop\u00f3sito espec\u00edfico "
+        },
+        {
+          "r": "A la forma visible de un lenguaje de programaci\u00f3n se la conoce como sintaxis "
+        }
+      ]
+    },
+    {
+      "p": "\u00bfCual es la definici\u00f3n de Bucles?",
+      "rs": [
+        {
+          "r": "Los bucles son parientes cercanos de los condicionantes , pero ejecutan constantemente un c\u00f3digo mientras se cumpla una determinada condici\u00f3n "
+        },
+        {
+          "r": "Programaci\u00f3n reactiva : este paradigma se basa en la declaraci\u00f3n de una serie de objetos emisores de eventos as\u00edncronos y otra serie de objetos que se \" suscriben \" a los primeros ( es decir , quedan a la escucha de la emisi\u00f3n de eventos de estos ) y * reaccionan * a los valores que reciben "
+        },
+        {
+          "r": "Programaci\u00f3n multiparadigma : es el uso de dos o m\u00e1s paradigmas dentro de un programa "
+        },
+        {
+          "r": "Programaci\u00f3n declarativa : est\u00e1 basada en describir el problema declarando propiedades y reglas que deben cumplirse , en lugar de instrucciones "
+        }
+      ]
+    },
+    {
+      "p": "Conforme a Elementos \u00bfQue son las Funciones?",
+      "rs": [
+        {
+          "r": "Las funciones se crearon para evitar tener que repetir constantemente fragmentos de c\u00f3digo "
+        },
+        {
+          "r": "Se distinguen los lenguajes de programaci\u00f3n de prop\u00f3sito general de aquellos de prop\u00f3sito espec\u00edfico "
+        },
+        {
+          "r": "Los lenguajes de programaci\u00f3n se suelen clasificar dentro de dos amplias categor\u00edas que se refieren a su \" nivel de abstracci\u00f3n \" , es decir , en cuanto a lo espec\u00edfico o general que es respecto a la arquitectura de computaci\u00f3n inherente al sistema que se est\u00e1 utilizando "
+        },
+        {
+          "r": "Programaci\u00f3n multiparadigma : es el uso de dos o m\u00e1s paradigmas dentro de un programa "
+        }
+      ]
+    },
+    {
+      "p": "\u00bfCual es la definici\u00f3n de Sintaxis?",
+      "rs": [
+        {
+          "r": "A la forma visible de un lenguaje de programaci\u00f3n se la conoce como sintaxis "
+        },
+        {
+          "r": "Programaci\u00f3n imperativa o por procedimientos : es el m\u00e1s usado en general , se basa en dar instrucciones al ordenador de como hacer las cosas en forma de algoritmos , en lugar de describir el problema o la soluci\u00f3n "
+        },
+        {
+          "r": "Los paradigmas de programaci\u00f3n distinguen distintos modelos de c\u00f3mputo y de estilos de estructurar y organizar las tareas que debe realizar un programa "
+        },
+        {
+          "r": "Los equipos de ordenador ( el hardware ) han pasado por cuatro generaciones , de las que las tres primeras ( ordenadores con v\u00e1lvulas , transistores y circuitos integrados ) est\u00e1n muy claras , la cuarta ( circuitos integrados a gran escala ) es m\u00e1s discutible "
+        }
+      ]
+    },
+    {
+      "p": "De acuerdo a Elementos \u00bfQue es la Sem\u00e1ntica est\u00e1tica?",
+      "rs": [
+        {
+          "r": "La sem\u00e1ntica est\u00e1tica define las restricciones sobre la estructura de los textos v\u00e1lidos que resulta imposible o muy dif\u00edcil expresar mediante formalismos sint\u00e1cticos est\u00e1ndar "
+        },
+        {
+          "r": "Los equipos de ordenador ( el hardware ) han pasado por cuatro generaciones , de las que las tres primeras ( ordenadores con v\u00e1lvulas , transistores y circuitos integrados ) est\u00e1n muy claras , la cuarta ( circuitos integrados a gran escala ) es m\u00e1s discutible "
+        },
+        {
+          "r": "Los programas se pueden clasificar por el paradigma del lenguaje que se use para producirlos "
+        },
+        {
+          "r": "Los bucles son parientes cercanos de los condicionantes , pero ejecutan constantemente un c\u00f3digo mientras se cumpla una determinada condici\u00f3n "
+        }
+      ]
+    },
+    {
+      "p": "De acuerdo a Elementos \u00bfQue es el Sistema de tipos?",
+      "rs": [
+        {
+          "r": "Un sistema de tipos de datos define la manera en la cual un lenguaje de programaci\u00f3n clasifica los valores y expresiones en tipos , c\u00f3mo pueden ser manipulados dichos tipos y c\u00f3mo interact\u00faan "
+        },
+        {
+          "r": "La sem\u00e1ntica est\u00e1tica define las restricciones sobre la estructura de los textos v\u00e1lidos que resulta imposible o muy dif\u00edcil expresar mediante formalismos sint\u00e1cticos est\u00e1ndar "
+        },
+        {
+          "r": "Los paradigmas de programaci\u00f3n distinguen distintos modelos de c\u00f3mputo y de estilos de estructurar y organizar las tareas que debe realizar un programa "
+        },
+        {
+          "r": "Las funciones se crearon para evitar tener que repetir constantemente fragmentos de c\u00f3digo "
+        }
+      ]
+    },
+    {
+      "p": "\u00bfCual es la definici\u00f3n de Paradigmas?",
+      "rs": [
+        {
+          "r": "Los programas se pueden clasificar por el paradigma del lenguaje que se use para producirlos "
+        },
+        {
+          "r": "A la forma visible de un lenguaje de programaci\u00f3n se la conoce como sintaxis "
+        },
+        {
+          "r": "Se distinguen los lenguajes de programaci\u00f3n de prop\u00f3sito general de aquellos de prop\u00f3sito espec\u00edfico "
+        },
+        {
+          "r": "Las funciones se crearon para evitar tener que repetir constantemente fragmentos de c\u00f3digo "
+        }
+      ]
+    }
+  ]
+}

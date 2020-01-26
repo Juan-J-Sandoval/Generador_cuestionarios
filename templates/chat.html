@@ -1,0 +1,34 @@
+{% extends 'plantillas/base.html' %}
+{% block contenido %}
+<div class="header">
+  <h1>BOT QA</h1>
+</div>
+
+<div class="row">
+
+<div class="column side">
+    <h4>Si deseas otro tema presiona el boton</h4>
+    <form method="POST">
+        <p> <input type="submit" name="boton" value="Nuevo Tema" > </p>
+    </form>
+    <p> <h3>Verifique su información en esta pagina</h3> </p>
+    <p><a target="_blank" href={{ pagina }}> {{ tema }}</a></p>
+</div>
+
+<div class="column middle">
+    <div class="historial"></div>
+    <div class="entrada">
+        <input type="text" class="msjentrada" placeholder="Escribe tu respuesta...">
+        <button type="submit" class="bt-envio" onclick="envio()">Enviar</button>
+    </div>
+</div>
+
+<div class="column side">
+    <h2>Dudas o aclaraciones preguntale a QA</h2>
+</div>
+
+</div>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/socket.io/1.7.3/socket.io.min.js"></script>
+    <script src="{{ url_for('static', filename='js/chat.js')}}"></script>
+{% endblock %}

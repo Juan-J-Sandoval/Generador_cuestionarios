@@ -1,0 +1,39 @@
+{% extends 'plantillas/base.html' %}
+{% block contenido %}
+<div class="header">
+  <h1>BOT QA</h1>
+</div>
+
+<div class="row">
+<div class="column side">
+    <h4>Ingresa el tema del cual deseas el cuestionario</h4>
+    <form method="POST">
+        <p> <input type="text" name="tema" required> </p>
+        <p> <input type="submit" name="boton" value="Prueba" > </p>
+    </form>
+</div>
+
+<div class="column middle">
+    <p><strong>{{ pagina }}</strong></p>
+</div>
+
+<div class="column side">
+    <h2>Los temas sugeridos para el cuestionario son:</h2>
+    <ul>
+        <li>Lenguaje de programación</li>
+        <li>Matemáticas discretas</li>
+        <li>Teoría de la computación</li>
+        <li>Inteligencia artificial</li>
+	    <li>Ingeniería de software</li>
+        <li>Ciencias de la computación</li>
+        <li>Sistemas distribuidos</li>
+        <li>Base de datos</li>
+        <li>Red neuronal artificial</li>
+        <li>Diagrama de flujo</li>
+    </ul>
+</div>
+</div>
+<script>
+    
+</script>
+{% endblock %}

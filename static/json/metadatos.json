@@ -1,0 +1,167 @@
+{
+  "Titulo": [
+    {
+      "lista": [],
+      "Nombre": "\u00cdndice",
+      "Subtitulos": []
+    },
+    {
+      "lista": [],
+      "Nombre": "Historia",
+      "Subtitulos": []
+    },
+    {
+      "lista": [
+        {
+          "punto": "Clasificaci\u00f3n hist\u00f3rica"
+        },
+        {
+          "punto": "Lenguajes de alto y de bajo nivel"
+        },
+        {
+          "punto": "Clasificaci\u00f3n por paradigmas"
+        },
+        {
+          "punto": "Clasificaci\u00f3n por prop\u00f3sito"
+        }
+      ],
+      "Nombre": "Clasificaci\u00f3n de los lenguajes de programaci\u00f3n",
+      "Subtitulos": [
+        {
+          "NombreSub": "Clasificaci\u00f3n hist\u00f3rica o por generaciones",
+          "lista": [
+            {
+              "punto": "Primera generaci\u00f3n"
+            },
+            {
+              "punto": "Segunda generaci\u00f3n"
+            },
+            {
+              "punto": "Tercera generaci\u00f3n"
+            },
+            {
+              "punto": "Cuarta generaci\u00f3n"
+            },
+            {
+              "punto": "Quinta generaci\u00f3n"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "lista": [],
+      "Nombre": "Paradigma de programaci\u00f3n",
+      "Subtitulos": []
+    },
+    {
+      "lista": [
+        {
+          "punto": "Programaci\u00f3n imperativa o por procedimientos"
+        },
+        {
+          "punto": "Programaci\u00f3n declarativa"
+        },
+        {
+          "punto": "Programaci\u00f3n multiparadigma"
+        },
+        {
+          "punto": "Programaci\u00f3n reactiva"
+        }
+      ],
+      "Nombre": "Clasificaci\u00f3n por paradigmas",
+      "Subtitulos": []
+    },
+    {
+      "lista": [],
+      "Nombre": "Elementos",
+      "Subtitulos": [
+        {
+          "NombreSub": "Variables y vectores",
+          "lista": []
+        },
+        {
+          "NombreSub": "Condicionales",
+          "lista": [
+            {
+              "punto": "If"
+            },
+            {
+              "punto": "Else if"
+            },
+            {
+              "punto": "Else"
+            }
+          ]
+        },
+        {
+          "NombreSub": "Bucles",
+          "lista": [
+            {
+              "punto": "For"
+            },
+            {
+              "punto": "While"
+            }
+          ]
+        },
+        {
+          "NombreSub": "Funciones",
+          "lista": []
+        },
+        {
+          "NombreSub": "Sintaxis",
+          "lista": []
+        },
+        {
+          "NombreSub": "Sem\u00e1ntica est\u00e1tica",
+          "lista": []
+        },
+        {
+          "NombreSub": "Sistema de tipos",
+          "lista": []
+        }
+      ]
+    },
+    {
+      "lista": [],
+      "Nombre": "Implementaci\u00f3n",
+      "Subtitulos": []
+    },
+    {
+      "lista": [],
+      "Nombre": "T\u00e9cnica",
+      "Subtitulos": [
+        {
+          "NombreSub": "Paradigmas",
+          "lista": []
+        }
+      ]
+    },
+    {
+      "lista": [],
+      "Nombre": "V\u00e9ase tambi\u00e9n",
+      "Subtitulos": []
+    },
+    {
+      "lista": [],
+      "Nombre": "Referencias",
+      "Subtitulos": []
+    },
+    {
+      "lista": [
+        {
+          "punto": "Proyectos Wikimedia"
+        },
+        {
+          "punto": "Identificadores"
+        },
+        {
+          "punto": "Diccionarios y enciclopedias"
+        }
+      ],
+      "Nombre": "Enlaces externos",
+      "Subtitulos": []
+    }
+  ]
+}

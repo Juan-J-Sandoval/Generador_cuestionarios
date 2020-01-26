@@ -1,0 +1,72 @@
+{
+  "index": [
+    {
+      "q": "De acuerdo a Clasificaci\u00f3n de los lenguajes de programaci\u00f3n \u00bfQue es la Clasificaci\u00f3n hist\u00f3rica?",
+      "a": "A medida que surgian nuevos lenguajes que permit\u00edan nuevos estilos de programaci\u00f3n m\u00e1s expresiva , se distinguieron dichos estilos en una serie de generaciones , cada una representando lenguajes de programaci\u00f3n surgidos en una \u00e9poca similar y con caracter\u00edsticas gen\u00e9ricas comunes "
+    },
+    {
+      "q": "Conforme a Clasificaci\u00f3n de los lenguajes de programaci\u00f3n \u00bfQue son los Lenguajes de alto y de bajo nivel?",
+      "a": "Los lenguajes de programaci\u00f3n se suelen clasificar dentro de dos amplias categor\u00edas que se refieren a su \" nivel de abstracci\u00f3n \" , es decir , en cuanto a lo espec\u00edfico o general que es respecto a la arquitectura de computaci\u00f3n inherente al sistema que se est\u00e1 utilizando "
+    },
+    {
+      "q": "De acuerdo a Clasificaci\u00f3n de los lenguajes de programaci\u00f3n \u00bfQue es la Clasificaci\u00f3n por paradigmas?",
+      "a": "Los paradigmas de programaci\u00f3n distinguen distintos modelos de c\u00f3mputo y de estilos de estructurar y organizar las tareas que debe realizar un programa "
+    },
+    {
+      "q": "De acuerdo a Clasificaci\u00f3n de los lenguajes de programaci\u00f3n \u00bfQue es la Clasificaci\u00f3n por prop\u00f3sito?",
+      "a": "Se distinguen los lenguajes de programaci\u00f3n de prop\u00f3sito general de aquellos de prop\u00f3sito espec\u00edfico "
+    },
+    {
+      "q": "\u00bfCual es la definici\u00f3n de Clasificaci\u00f3n hist\u00f3rica o por generaciones?",
+      "a": "Los equipos de ordenador ( el hardware ) han pasado por cuatro generaciones , de las que las tres primeras ( ordenadores con v\u00e1lvulas , transistores y circuitos integrados ) est\u00e1n muy claras , la cuarta ( circuitos integrados a gran escala ) es m\u00e1s discutible "
+    },
+    {
+      "q": "De acuerdo a Clasificaci\u00f3n por paradigmas \u00bfQue es la Programaci\u00f3n imperativa o por procedimientos?",
+      "a": "Programaci\u00f3n imperativa o por procedimientos : es el m\u00e1s usado en general , se basa en dar instrucciones al ordenador de como hacer las cosas en forma de algoritmos , en lugar de describir el problema o la soluci\u00f3n "
+    },
+    {
+      "q": "De acuerdo a Clasificaci\u00f3n por paradigmas \u00bfQue es la Programaci\u00f3n declarativa?",
+      "a": "Programaci\u00f3n declarativa : est\u00e1 basada en describir el problema declarando propiedades y reglas que deben cumplirse , en lugar de instrucciones "
+    },
+    {
+      "q": "De acuerdo a Clasificaci\u00f3n por paradigmas \u00bfQue es la Programaci\u00f3n multiparadigma?",
+      "a": "Programaci\u00f3n multiparadigma : es el uso de dos o m\u00e1s paradigmas dentro de un programa "
+    },
+    {
+      "q": "De acuerdo a Clasificaci\u00f3n por paradigmas \u00bfQue es la Programaci\u00f3n reactiva?",
+      "a": "Programaci\u00f3n reactiva : este paradigma se basa en la declaraci\u00f3n de una serie de objetos emisores de eventos as\u00edncronos y otra serie de objetos que se \" suscriben \" a los primeros ( es decir , quedan a la escucha de la emisi\u00f3n de eventos de estos ) y * reaccionan * a los valores que reciben "
+    },
+    {
+      "q": "Conforme a Elementos \u00bfQue son los Variables y vectores?",
+      "a": "Las variables son t\u00edtulos asignados a espacios en memoria para almacenar datos espec\u00edficos "
+    },
+    {
+      "q": "\u00bfCual es la definici\u00f3n de Condicionales?",
+      "a": "Las sentencias condicionales son estructuras de c\u00f3digo que indican que , para que cierta parte del programa se ejecute , deben cumplirse ciertas premisas ; por ejemplo : que dos valores sean iguales , que un valor exista , que un valor sea mayor que otro ... Estos condicionantes por lo general solo se ejecutan una vez a lo largo del programa "
+    },
+    {
+      "q": "\u00bfCual es la definici\u00f3n de Bucles?",
+      "a": "Los bucles son parientes cercanos de los condicionantes , pero ejecutan constantemente un c\u00f3digo mientras se cumpla una determinada condici\u00f3n "
+    },
+    {
+      "q": "Conforme a Elementos \u00bfQue son las Funciones?",
+      "a": "Las funciones se crearon para evitar tener que repetir constantemente fragmentos de c\u00f3digo "
+    },
+    {
+      "q": "\u00bfCual es la definici\u00f3n de Sintaxis?",
+      "a": "A la forma visible de un lenguaje de programaci\u00f3n se la conoce como sintaxis "
+    },
+    {
+      "q": "De acuerdo a Elementos \u00bfQue es la Sem\u00e1ntica est\u00e1tica?",
+      "a": "La sem\u00e1ntica est\u00e1tica define las restricciones sobre la estructura de los textos v\u00e1lidos que resulta imposible o muy dif\u00edcil expresar mediante formalismos sint\u00e1cticos est\u00e1ndar "
+    },
+    {
+      "q": "De acuerdo a Elementos \u00bfQue es el Sistema de tipos?",
+      "a": "Un sistema de tipos de datos define la manera en la cual un lenguaje de programaci\u00f3n clasifica los valores y expresiones en tipos , c\u00f3mo pueden ser manipulados dichos tipos y c\u00f3mo interact\u00faan "
+    },
+    {
+      "q": "\u00bfCual es la definici\u00f3n de Paradigmas?",
+      "a": "Los programas se pueden clasificar por el paradigma del lenguaje que se use para producirlos "
+    }
+  ]
+}
