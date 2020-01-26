@@ -5,7 +5,7 @@ from ibm_cloud_sdk_core.authenticators import IAMAuthenticator
 import wikipedia, MetodoHTML, MetodoCD, MetodoCuestionario
 app = Flask(__name__)
 socketio = SocketIO(app)
-id = 'e64ee8ee-a226-4103-b66d-a95af43f60f0';sesion = "";service =""
+id = 'ide_de_watson_assistan';sesion = "";service =""
 
 
 @app.route('/', methods = ['GET', 'POST'])
@@ -36,7 +36,7 @@ def chat(tema):
     if request.method == 'POST':
         return redirect(url_for('index'))
     pagina = wikipedia.page(tema).url
-    authenticator = IAMAuthenticator('WByocHiKEyIkDh6YJ4coM6lRhBvjk1Me1lZZfk5_pr2A')
+    authenticator = IAMAuthenticator('Proporcionado_por_Watson')
     service = AssistantV2(version='2019-02-28', authenticator=authenticator)
     service.set_service_url('https://gateway.watsonplatform.net/assistant/api')
     response = service.create_session(assistant_id=id).get_result()
@@ -53,5 +53,5 @@ def manipula_mensaje(msj):
 
 
 if __name__ == '__main__':
-    app.secret_key = 'adgs#ad5845@sdff7#45asedxf'
+    app.secret_key = 'Proporcionado_por_Watson'
     socketio.run(app, debug=True)
