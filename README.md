@@ -1,6 +1,2 @@
 # Generador_cuestionarios
-Es un prototipo de tesis, para generar cuestionarios de opción múltiple.
-Es una parte debido a que la escuela no me tiene permitido exponer todo
-
-
-No es posible posible replicarlo debido a las credenciales para usar el chatbot en Watson Assistant
+Es un prototipo de tesis, el cual mediante el procesamiento del lenguaje natural genera preguntas con sus respectivas respuestas correctas, como siguiente realiza un cuestionario de opción múltiple, que se almacenan en un archivo JSON para posteriormente con una interfaz web que se conecta mediante sockets a un chatbot entrenado mediante la herramienta de IBM watson assistant, contiene intensiones, entidad y nodos de conversacion orientados a evaluaciones realizadas mediante cuestionarios de opción múltiple 
